@@ -1,0 +1,7 @@
+# game_ar293
+# Description of game:
+# 1  its genre (from the assignment page or one you have made up)
+# 2  its consumer tempting, ear popping, name (and the back story, or epic challenge, if you want)
+# 3 its goal (how to win the game or advance levels)
+# 4  its basic mechanics (how to play the game)
+# 5  how its levels or modes differ
